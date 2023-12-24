@@ -16,6 +16,7 @@ namespace ClubMembershipApplication.Data
             base.OnConfiguring(optionsBuilder);
         }
 
+        //get users data
         public DbSet<User> Users { get; set; }
 
     }

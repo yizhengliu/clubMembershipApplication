@@ -72,3 +72,5 @@ C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembersh
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\ClubMembershipApplication.csproj.CopyComplete
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\ClubMembershipApplication.exe
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\ClubMembershipApplication.pdb
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\FieldValidatorAPI.dll
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\FieldValidatorAPI.pdb

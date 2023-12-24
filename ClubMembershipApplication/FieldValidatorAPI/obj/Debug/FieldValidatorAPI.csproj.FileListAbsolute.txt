@@ -1,0 +1,6 @@
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\FieldValidatorAPI.dll
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\FieldValidatorAPI.pdb
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.csproj.AssemblyReference.cache
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.dll
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.pdb
