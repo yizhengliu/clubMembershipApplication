@@ -156,6 +156,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\ClubMembershipDbContext.cs" />
+    <Compile Include="Migrations\20231224172948_FirstCreate.cs" />
+    <Compile Include="Migrations\20231224172948_FirstCreate.designer.cs">
+      <DependentUpon>20231224172948_FirstCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\ClubMembershipDbContextModelSnapshot.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
