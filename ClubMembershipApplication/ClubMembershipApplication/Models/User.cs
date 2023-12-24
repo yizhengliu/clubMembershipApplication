@@ -11,7 +11,7 @@ namespace ClubMembershipApplication.Models
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-
+        //ID is primary key and will anto increase
         public string EmailAddress { get; set; }
 
         public string FirstName { get; set; }
@@ -32,3 +32,4 @@ namespace ClubMembershipApplication.Models
 
         public string PostCode { get; set; }
     }
+}
