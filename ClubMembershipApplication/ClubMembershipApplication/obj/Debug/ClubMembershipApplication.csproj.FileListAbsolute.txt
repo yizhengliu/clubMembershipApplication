@@ -4,6 +4,7 @@ C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembersh
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\ClubMembershipApplication.exe.config
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\ClubMembershipApplication.exe
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\ClubMembershipApplication.pdb
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\FieldValidatorAPI.dll
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\Microsoft.Bcl.HashCode.dll
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\Microsoft.Data.Sqlite.dll
@@ -38,6 +39,7 @@ C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembersh
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\FieldValidatorAPI.pdb
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\Microsoft.Bcl.HashCode.xml
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\Microsoft.Data.Sqlite.xml
@@ -72,5 +74,3 @@ C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembersh
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\ClubMembershipApplication.csproj.CopyComplete
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\ClubMembershipApplication.exe
 C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\ClubMembershipApplication.pdb
-C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\FieldValidatorAPI.dll
-C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\FieldValidatorAPI.pdb

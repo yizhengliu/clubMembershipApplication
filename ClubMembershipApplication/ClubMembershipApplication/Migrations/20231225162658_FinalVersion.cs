@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ClubMembershipApplication.Migrations
 {
-    public partial class FirstCreate : Migration
+    public partial class FinalVersion : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

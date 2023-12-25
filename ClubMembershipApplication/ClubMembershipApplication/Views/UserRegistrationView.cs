@@ -60,7 +60,7 @@ namespace ClubMembershipApplication.Views
             do 
             {
                 //ask for input
-                Console.WriteLine(promptText);
+                Console.Write(promptText);
                 //store input
                 fieldVal = Console.ReadLine();
             }
