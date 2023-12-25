@@ -35,8 +35,8 @@ namespace ClubMembershipApplication.Views
 
             if (user != null)
             {
-                //user is authenticated
-                //ToDo: Run Welcome View
+                WelcomeUserView welcomeUserView = new WelcomeUserView(user);
+                welcomeUserView.RunView();
             }
             else 
             {
