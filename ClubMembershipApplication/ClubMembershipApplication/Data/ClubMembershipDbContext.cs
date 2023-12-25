@@ -12,7 +12,10 @@ namespace ClubMembershipApplication.Data
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite($"Data Source={AppDomain.CurrentDomain.BaseDirectory}ClubMembershipDb.db");
+            //string destination = "C:\\Users\\27571\\OneDrive\\桌面\\advance C#\\clubMembershipApplication\\ClubMembershipApplication\\packages\\Microsoft.EntityFrameworkCore.Tools.3.1.2\\tools\\net461\\any\\";
+            //Console.WriteLine($"{AppDomain.CurrentDomain.BaseDirectory}ClubMembershipDb.db");
+            
+            optionsBuilder.UseSqlite(@"Data Source=C:\Users\27571\OneDrive\桌面\advance C#\clubMembershipApplication\ClubMembershipApplication\Db\ClubMembershipDb.db");
             base.OnConfiguring(optionsBuilder);
         }
 

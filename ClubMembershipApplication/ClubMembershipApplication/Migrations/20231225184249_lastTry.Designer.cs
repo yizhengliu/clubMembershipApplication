@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ClubMembershipApplication.Migrations
 {
     [DbContext(typeof(ClubMembershipDbContext))]
-    [Migration("20231225162658_FinalVersion")]
-    partial class FinalVersion
+    [Migration("20231225184249_lastTry")]
+    partial class lastTry
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -39,6 +39,8 @@ namespace ClubMembershipApplication.Data
                     AddressCity = fields[(int)FieldConstants.UserRegistrationField.AddressCity],
                     PostCode = fields[(int)FieldConstants.UserRegistrationField.PostCode],
                 };
+                dbContext.Users.Add(user);
+                dbContext.SaveChanges();
             }
             return true;
         }
