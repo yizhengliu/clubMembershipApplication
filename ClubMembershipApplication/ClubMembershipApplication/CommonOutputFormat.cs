@@ -21,7 +21,7 @@ namespace ClubMembershipApplication
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.White;
             }
-            else if (fontTheme == FontTheme.Success) 
+            else if (fontTheme == FontTheme.Success)
             {
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.ForegroundColor = ConsoleColor.White;

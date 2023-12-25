@@ -127,7 +127,7 @@ namespace ClubMembershipApplication.FieldValidators
                 default:
                     throw new ArgumentException("This field does not exists");
             }
-
+            //if error, return false; return true if no error
             return (fieldInvalidMessage == "");
         }
     }

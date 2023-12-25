@@ -1,4 +1,4 @@
-﻿using ClubMembershipApplication.FieldValidators;
+﻿using ClubMembershipApplication.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace ClubMembershipApplication.Views
 {
-    public interface IView
+    public class WelcomeUserView
     {
-        void RunView();
-        IFieldValidator FieldValidator { get;}
+        User _user = null;
+
     }
 }
