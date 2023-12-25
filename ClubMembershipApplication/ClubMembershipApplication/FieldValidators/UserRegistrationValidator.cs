@@ -1,4 +1,5 @@
-﻿using FieldValidatorAPI;
+﻿using ClubMembershipApplication.Data;
+using FieldValidatorAPI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +31,7 @@ namespace ClubMembershipApplication.FieldValidators
 
         //store valid inputs
         string[] _fieldArray = null;
+        IRegister _register = null;
 
         public string[] FieldArray 
         {
@@ -47,6 +49,7 @@ namespace ClubMembershipApplication.FieldValidators
         {
             //initialise and use the API to have reference of validation funcitons
             _fieldValidatorDel = new FieldValidatorDel(ValidateField);
+            _emailExistsDel = new EmailExistsDel(_register.EmailExists);
 
             _requiredValidDel = CommonFieldValidatorFunctions.RequiredFieldValidDel;
             _stringLengthValidDel = CommonFieldValidatorFunctions.StringLengthFieldValidDel;
@@ -55,6 +58,13 @@ namespace ClubMembershipApplication.FieldValidators
             _compareFieldsValidDel = CommonFieldValidatorFunctions.FieldsCompareValidDel;
         }
 
+        public UserRegistrationValidator(IRegister register) 
+        {
+            _register = register;
+        }
+        
+
+        //validate all fields
         private bool ValidateField(int fieldIndex, string fieldValue, string[] fieldArray, out string fieldInvalidMessage) 
         {
             fieldInvalidMessage = "";
